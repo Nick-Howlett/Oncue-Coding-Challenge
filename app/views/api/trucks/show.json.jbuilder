@@ -1,0 +1,1 @@
+json.partial! 'truck', truck: @truck
